@@ -57,8 +57,6 @@ Usa la ventana como si fuera una aplicación independiente.
 ![2](https://github.com/user-attachments/assets/1f9263df-6037-432a-b493-0a1992b13365)
 
 
-![3](https://github.com/user-attachments/assets/aea0b538-7826-4094-b827-881c4f04f48e)
-
 ## Personalización
 
 Puedes modificar ciertos aspectos de la extensión para adaptarla a tus necesidades:
