@@ -8,7 +8,7 @@
 
 # Introducción
 
-La extensión "Web App Creator" permite a los usuarios convertir cualquier sitio web en una aplicación independiente que se abre en una ventana sin barra de navegación, ofreciendo una experiencia más limpia y enfocada. Este manual detalla cómo instalar, configurar y utilizar esta extensión.
+La extensión "WebToApp" permite a los usuarios convertir cualquier sitio web en una aplicación independiente que se abre en una ventana sin barra de navegación, ofreciendo una experiencia más limpia y enfocada. Este manual detalla cómo instalar, configurar y utilizar esta extensión.
 
 ## Requisitos
 
