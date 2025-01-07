@@ -1,10 +1,4 @@
 # WebtoApp
-![1](https://github.com/user-attachments/assets/596392b5-d652-4a2d-9632-a4f1e0df85f2)
-
-![2](https://github.com/user-attachments/assets/1f9263df-6037-432a-b493-0a1992b13365)
-
-![3](https://github.com/user-attachments/assets/aea0b538-7826-4094-b827-881c4f04f48e)
-
 
 # Introducción
 
@@ -52,11 +46,18 @@ Aparecerá una ventana emergente con un botón que dice "Instalar".
 
 Haz clic en el botón.
 
+![1](https://github.com/user-attachments/assets/596392b5-d652-4a2d-9632-a4f1e0df85f2)
+
 ### Paso 3: Disfrutar la aplicación
 
 La extensión abrirá el sitio web en una nueva ventana tipo "popup" sin barra de navegación ni pestañas.
 
 Usa la ventana como si fuera una aplicación independiente.
+
+![2](https://github.com/user-attachments/assets/1f9263df-6037-432a-b493-0a1992b13365)
+
+
+![3](https://github.com/user-attachments/assets/aea0b538-7826-4094-b827-881c4f04f48e)
 
 ## Personalización
 
