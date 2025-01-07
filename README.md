@@ -4,3 +4,117 @@
 ![2](https://github.com/user-attachments/assets/1f9263df-6037-432a-b493-0a1992b13365)
 
 ![3](https://github.com/user-attachments/assets/aea0b538-7826-4094-b827-881c4f04f48e)
+
+
+Introducción
+
+La extensión "Web App Creator" permite a los usuarios convertir cualquier sitio web en una aplicación independiente que se abre en una ventana sin barra de navegación, ofreciendo una experiencia más limpia y enfocada. Este manual detalla cómo instalar, configurar y utilizar esta extensión.
+
+Requisitos
+
+Navegador Opera instalado en tu computadora.
+
+Conocimientos básicos para cargar extensiones en modo desarrollador.
+
+Instalación
+
+Paso 1: Descargar los archivos
+
+Descarga el paquete de la extensión desde el repositorio o lugar de distribución.
+
+Asegúrate de que incluye los siguientes archivos:
+
+manifest.json
+
+popup.html
+
+popup.js
+
+background.js
+
+icon.png
+
+Paso 2: Cargar la extensión en Opera
+
+Abre Opera y escribe opera://extensions en la barra de direcciones.
+
+Activa la opción "Modo desarrollador" en la parte superior derecha.
+
+Haz clic en "Cargar extensión sin empaquetar".
+
+Selecciona la carpeta que contiene los archivos de la extensión.
+
+La extensión aparecerá en la lista y su icono se mostrará en la barra de extensiones.
+
+Uso de la extensión
+
+Paso 1: Abrir la extensión
+
+Navega al sitio web que deseas convertir en una aplicación.
+
+Haz clic en el icono de "Web App Creator" en la barra de extensiones.
+
+Paso 2: Crear la aplicación
+
+Aparecerá una ventana emergente con un botón que dice "Crear Web App".
+
+Haz clic en el botón.
+
+Paso 3: Disfrutar la aplicación
+
+La extensión abrirá el sitio web en una nueva ventana tipo "popup" sin barra de navegación ni pestañas.
+
+Usa la ventana como si fuera una aplicación independiente.
+
+Personalización
+
+Puedes modificar ciertos aspectos de la extensión para adaptarla a tus necesidades:
+
+Cambiar el tamaño de la ventana
+
+Abre el archivo background.js en un editor de texto.
+
+Localiza el siguiente fragmento:
+
+chrome.windows.create({
+  url: message.url,
+  type: "popup",
+  width: 800,
+  height: 600
+});
+
+Cambia los valores de width (ancho) y height (alto) según prefieras.
+
+Guarda los cambios y recarga la extensión desde opera://extensions.
+
+Cambiar el icono
+
+Sustituye el archivo icon.png por otro icono de tu preferencia.
+
+Asegúrate de que el nuevo archivo tenga las mismas dimensiones.
+
+Recarga la extensión.
+
+Solución de problemas
+
+La extensión no aparece en la barra de herramientas
+
+Verifica que esté activada en opera://extensions.
+
+La ventana emergente no abre el sitio web
+
+Asegúrate de que la extensión tenga los permisos necesarios activados.
+
+Revisa el archivo manifest.json y confirma que la estructura sea correcta.
+
+La extensión no carga correctamente
+
+Verifica que todos los archivos estén en la carpeta seleccionada al cargar la extensión.
+
+Consulta la consola de errores del navegador en opera://extensions para más detalles.
+
+Contacto y soporte
+
+Si tienes dudas o necesitas ayuda, puedes contactar al desarrollador o consultar la documentación en el repositorio oficial.
+
+¡Gracias por usar "Web App Creator"!
