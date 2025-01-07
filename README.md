@@ -108,4 +108,4 @@ Consulta la consola de errores del navegador en `opera://extensions` para más d
 
 Si tienes dudas o necesitas ayuda, puedes contactar al desarrollador o consultar la documentación en el repositorio oficial.
 
-¡Gracias por usar "Web App Creator"!
+¡Gracias por usar "WebToApp"!
