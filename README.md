@@ -44,11 +44,11 @@ La extensión aparecerá en la lista y su icono se mostrará en la barra de exte
 
 Navega al sitio web que deseas convertir en una aplicación.
 
-Haz clic en el icono de "Web App Creator" en la barra de extensiones.
+Haz clic en el icono de "WebToApp" en la barra de extensiones.
 
 ### Paso 2: Crear la aplicación
 
-Aparecerá una ventana emergente con un botón que dice "Crear Web App".
+Aparecerá una ventana emergente con un botón que dice "Instalar".
 
 Haz clic en el botón.
 
